@@ -1,0 +1,9 @@
+.hero {
+    background: url('https://via.placeholder.com/1200x600') no-repeat center center;
+    background-size: cover;
+    height: 80vh;
+    color: white;
+}
+body{
+    background-image: url(../IMG/f.elconfidencial.com_original_2ae_113_165_2ae113165cf9f010b825393821b2defc.jpg);
+}
